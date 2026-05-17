@@ -1,8 +1,11 @@
 # Hey, I'm Harshit Chadha 👋
 
-- 🎓 B.Tech CSE (DATA SCIENCE) · Manipal University Jaipur · CGPA 8.24 · 2027
-- 🤖 Building AI/ML & Computer Vision projects
-- 🌱 Exploring Deep Learning, MLOps, and intelligent AI systems
+B.Tech CSE (Data Science) at Manipal University Jaipur (CGPA: 8.24/10, 2027)
+🤖 Passionate about AI, Machine Learning, Deep Learning & Computer Vision, with hands-on experience in building end-to-end ML systems and deploying models via APIs
+💻 Skilled in Python, Scikit-learn, XGBoost, MLflow, Flask, SQL, Tableau, and Git, with practical exposure through internship and real-world projects
+🚀 Built projects in Petrophysical Prediction, Fraud Detection, Sales Analytics & Customer Segmentation, focusing on data-driven problem solving
+🌱 Currently exploring Deep Learning, MLOps, and Intelligent AI Systems while strengthening problem-solving and software development skills
+📩 Open to AI/ML, Data Science, and Software Engineering internship opportunities
 - 📩 harshitchdh@gmail.com
 
 
