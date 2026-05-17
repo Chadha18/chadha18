@@ -1,6 +1,6 @@
 # Hey, I'm Harshit Chadha 👋
 
-B.Tech CSE (Data Science) at Manipal University Jaipur (CGPA: 8.24/10, 2027)
+B.Tech CSE  at Manipal University Jaipur (CGPA: 8.24/10, 2027)
 
 🤖 Passionate about AI, Machine Learning, Deep Learning & Computer Vision, with hands-on experience in building end-to-end ML systems and deploying models via APIs
 
